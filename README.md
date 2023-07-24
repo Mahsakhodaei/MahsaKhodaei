@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,materialui,ts&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,materialui,ts&theme=dark"&perline=6 />
   </a>
   
 <a href="#">
