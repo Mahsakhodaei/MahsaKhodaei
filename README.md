@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **Mahsakhodaei/MahsaKhodaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,10 @@ Here are some ideas to get you started:
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=WordPress&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=for-the-badge)
 -->
-### 💻 SKILLS :
+<h1 align="center">Hi 👋, I'm Mahsa</h1>
+<h3 align="center"></h3>
+
+### 💻 Skills :
 
 
 <a href="#">
@@ -33,5 +36,9 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=dart,flutter,photoshop,vscode,androidstudio,git,github,wordpress&theme=dark" />
   </a>
   
-### 🌐 Social:
-  <a href="https://mahsa.khodaei811@gmail.com" target="_blank" rel="noreferrer"><img src="https://www.pngall.com/wp-content/uploads/12/Gmail-Logo-PNG-Cutout.png" height="50" /></a>
+<!--### 🌐 Social:-->
+<h3 align="left">Connect with me:</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-dubey-02ba331b6)
+[![Gmail](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/dalok2811/)
+
