@@ -21,3 +21,12 @@ Here are some ideas to get you started:
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=WordPress&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=for-the-badge)
+
+
+### 💻 Tech Stack:
+<a href="#">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,photoshop,vscode,androidstudio,git,github&theme=dark" />
+  </a>
+  
+### 🌐 Social:
+  <a href="https://mahsa.khodaei811@gmail.com" target="_blank" rel="noreferrer"><img src="https://www.pngall.com/wp-content/uploads/12/Gmail-Logo-PNG-Cutout.png" height="50" /></a>
