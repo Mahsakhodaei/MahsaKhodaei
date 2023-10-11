@@ -1,4 +1,6 @@
 ### 
+![github-mahsa1](https://github.com/Mahsakhodaei/MahsaKhodaei/assets/47160014/a910528f-b012-4650-b80e-4a5fd067602c)
+
 
 <!--
 **Mahsakhodaei/MahsaKhodaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +22,6 @@ Here are some ideas to get you started:
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=WordPress&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=for-the-badge)
 -->
-<h1 align="center">Hi 👋, I'm Mahsa</h1>
 <h3 align="center"></h3>
 
 ### 💻 BEST SKILL ON :
@@ -33,7 +34,8 @@ Here are some ideas to get you started:
   ### 
   
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,photoshop,vscode,androidstudio,git,github,wordpress&theme=dark" />
+<!--     <img src="https://skillicons.dev/icons?i=dart,flutter,photoshop,vscode,androidstudio,git,github,wordpress&theme=dark" /> -->
+    <img src="https://skillicons.dev/icons?i=photoshop,vscode,git,github,wordpress&theme=dark" />
   </a>
   
 <!--### 🌐 Social:-->
